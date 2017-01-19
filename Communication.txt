@@ -1,0 +1,6 @@
+Zac - Hello! A few resources I would suggest for learning HTML and CSS are below! 
+https://www.sololearn.com/    https://www.codecademy.com/     https://www.khanacademy.org/computing/computer-programming
+http://tutorialspoint.com/    http://www.w3schools.com/       
+However, one should definitely focus on only one lesson until they complete it on lesson sites, however W3 Schools is better 
+utilized as a sort of Web Development Dictionary. If you have any further questions, feel free to add your questions by editing 
+this document, this could serve to a sort of FAQ for early Web Developers like you. 
