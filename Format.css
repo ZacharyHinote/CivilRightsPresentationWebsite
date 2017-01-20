@@ -5,6 +5,10 @@
 body {
   background-color: beige;
 }
+div.StaticBar {
+  position: static;
+  background-color: white;
+}
 h1 {
   text-align: center;
   text-decoration: underline;
