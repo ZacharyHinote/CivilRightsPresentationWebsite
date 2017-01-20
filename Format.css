@@ -5,6 +5,10 @@
 body {
   background-color: beige;
 }
+.topBar {
+  position: fixed; 
+  text-align: center;
+}
 h1 {
   
 }
