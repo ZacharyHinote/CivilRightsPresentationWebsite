@@ -7,7 +7,7 @@ body {
 }
 div.StaticBar {
   position: static;
-  background-color: white;
+  background-color: chocolate;
 }
 h1 {
   text-align: center;
