@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: Beige;
+  background-image: url(life-papyrus.jpg);
 }
 div.StaticBar {
   position: static;
