@@ -32,4 +32,6 @@ a:hover {
 .Sources {
   font-size: 1.7em;
   text-align: center;
+  background-color: Wheat;
+  line-height: 25%;
 }
