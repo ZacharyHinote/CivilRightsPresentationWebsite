@@ -50,8 +50,9 @@ a:hover {
 img {
   border: 2px solid black;
 }
-#GithubPic {
-  margin: auto;
+img.center {
+  display: block;
+  margin: 0 auto;
 }
 
 table, th, td {
