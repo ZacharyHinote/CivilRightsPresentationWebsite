@@ -47,6 +47,9 @@ a:hover {
   background-color: Wheat;
   line-height: 25%;
 }
+.GithubPic {
+  margin: auto;
+}
 img {
   border: 2px solid black;
 }
