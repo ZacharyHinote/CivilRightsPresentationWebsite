@@ -47,12 +47,14 @@ a:hover {
   background-color: Wheat;
   line-height: 25%;
 }
-img.GithubPic {
-  margin: auto;
-}
 img {
   border: 2px solid black;
 }
+img.GithubPic {
+  display: block;
+    margin: 0 auto;
+}
+
 table, th, td {
   border: 1px solid black;
 }
